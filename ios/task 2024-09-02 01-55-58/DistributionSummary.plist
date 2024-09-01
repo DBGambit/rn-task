@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>task.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>1</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>F9706B7DD876AD747D53F84110F37CEF21CE2AE8</string>
+				<key>dateExpires</key>
+				<string>21.11.24</string>
+				<key>type</key>
+				<string>Cloud Managed Apple Distribution</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>0.12.0</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>F9706B7DD876AD747D53F84110F37CEF21CE2AE8</string>
+						<key>dateExpires</key>
+						<string>21.11.24</string>
+						<key>type</key>
+						<string>Cloud Managed Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>hermes.framework</string>
+					<key>symbols</key>
+					<false/>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>3448UV45PW</string>
+						<key>name</key>
+						<string>Inside LLC</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>0.12.0</string>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>3448UV45PW.com.task-app</string>
+				<key>beta-reports-active</key>
+				<true/>
+				<key>com.apple.developer.team-identifier</key>
+				<string>3448UV45PW</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>task.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>952fce8d-f9a2-4f05-afff-8f3773e17f94</string>
+				<key>dateExpires</key>
+				<string>21.11.24</string>
+				<key>name</key>
+				<string>iOS Team Store Provisioning Profile: com.task-app</string>
+			</dict>
+			<key>symbols</key>
+			<false/>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>3448UV45PW</string>
+				<key>name</key>
+				<string>Inside LLC</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>1.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>

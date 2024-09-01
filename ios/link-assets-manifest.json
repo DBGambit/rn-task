@@ -1,0 +1,25 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/Mardoto-Black.ttf",
+      "sha1": "b02b8514f84be50df59b4a9e1f70fa3cf40d4f08"
+    },
+    {
+      "path": "src/assets/fonts/Mardoto-Bold.ttf",
+      "sha1": "32fe637a0a0bd9b17ac5bfb213b4affd6d794d71"
+    },
+    {
+      "path": "src/assets/fonts/Mardoto-Light.ttf",
+      "sha1": "967199218d192152825858b1a76de827c1224a95"
+    },
+    {
+      "path": "src/assets/fonts/Mardoto-Medium.ttf",
+      "sha1": "60d10a2ce04a25f067389d19b889a0bb54b4e83e"
+    },
+    {
+      "path": "src/assets/fonts/Mardoto-Regular.ttf",
+      "sha1": "832a19af52d8782ab637723b3fb2b256988d27aa"
+    }
+  ]
+}
